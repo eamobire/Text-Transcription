@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Transcription results (personal files)
+Output/*
+!Output/.gitkeep
+
+# IDE files
+.idea/
+.vscode/
